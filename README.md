@@ -1,6 +1,6 @@
 ## Bienvenido
 
-La **misión** de nuestra empresa es masificar de manera *transparente* la instrumentación electrónica, haciendo posible que nuestros clientes puedan disponer de mayor información en la toma de decisiones, así como también que puedan utilizar esta información de forma sencilla para hacer el análisis que estimen conveniente.
+La **misión** de nuestra empresa es masificar de manera *transparente* la instrumentación electrónica, haciendo posible que nuestros clientes puedan disponer de mayor información en la toma de decisiones y utilizar esta información de forma sencilla para hacer el análisis que estimen conveniente.
 
 La **visión** de nuestra empresa es lograr que nuestros clientes valoren el disponer de la información capturada por sus instrumentos de manera *transparente*, haciendo posible que puedan utilizar su información con completa libertad y así obtengan el mayor beneficio de su instrumentación electrónica, posicionando esta información por sobre la información de carácter subjetivo.
 
