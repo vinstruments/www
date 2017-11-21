@@ -6,7 +6,7 @@ La **visión** de nuestra empresa es lograr que nuestros clientes valoren el dis
 
 El principal **valor** de la empresa es la *transparencia* tanto con sus clientes como con sus trabajadores.
 
-## En construcción:
+## Esta parte está por defecto:
 
 You can use the [editor on GitHub](https://github.com/vinstruments/www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
