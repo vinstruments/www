@@ -1,6 +1,4 @@
 theme: jekyll-theme-slate
 
-site.github: {
-  "is_project_page": false,
-  "project_title": "Vinstruments"
-}
+title: "Vinstruments"
+description: "...en contrucción"
