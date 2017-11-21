@@ -1,4 +1,4 @@
-## Bienvenido a VInstruments
+## Bienvenido a Vinstruments
 
 La **misión** de nuestra empresa es masificar de manera *transparente* la instrumentación electrónica, haciendo posible que nuestros clientes puedan disponer de mayor información en la toma de decisiones, así como también que puedan utilizar esta información de forma sencilla para hacer el análisis que estimen conveniente.
 
