@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenido a VInstruments
+
+La **misión** de nuestra empresa es masificar de manera *transparente* la instrumentación electrónica, haciendo posible que nuestros clientes puedan disponer de mayor información en la toma de decisiones, así como también que puedan utilizar esta información de forma sencilla para hacer el análisis que estimen conveniente.
+
+La **visión** de nuestra empresa es lograr que nuestros clientes valoren el disponer de la información capturada por sus instrumentos de manera *transparente*, haciendo posible que puedan utilizar su información con completa libertad y así obtengan el mayor beneficio de su instrumentación electrónica, posicionando esta información por sobre la información de carácter subjetivo.
+
+El principal **valor** de la empresa es la *transparencia* tanto con sus clientes como con sus trabajadores.
+
+## En construcción:
 
 You can use the [editor on GitHub](https://github.com/vinstruments/www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
