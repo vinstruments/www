@@ -1,4 +1,4 @@
-## Bienvenido a Vinstruments
+## Bienvenido
 
 La **misión** de nuestra empresa es masificar de manera *transparente* la instrumentación electrónica, haciendo posible que nuestros clientes puedan disponer de mayor información en la toma de decisiones, así como también que puedan utilizar esta información de forma sencilla para hacer el análisis que estimen conveniente.
 
@@ -6,11 +6,13 @@ La **visión** de nuestra empresa es lograr que nuestros clientes valoren el dis
 
 El principal **valor** de la empresa es la *transparencia* tanto con sus clientes como con sus trabajadores.
 
-## Esta parte está por defecto:
+## Contacto
 
-You can use the [editor on GitHub](https://github.com/vinstruments/www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<form action="" method="">
+    <p>Name: </p><input type="text" name="name"><br />
+    <p>Email: </p><input type="email" name="email"><br />
+    <input type="submit" value="Send">
+</form>
 
 ### Markdown
 
