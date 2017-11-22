@@ -4,7 +4,7 @@ Nuestra **misión** es masificar de manera *transparente* la instrumentación el
 
 Nuestra **visión** es lograr que nuestros clientes valoren el disponer de la información capturada por sus instrumentos de manera *transparente*, haciendo posible que puedan utilizar su información con completa libertad, para así obtener el mayor beneficio de su instrumentación electrónica, posicionando esta información por sobre la información de carácter subjetivo.
 
-Nuestro principal **valor** es la *transparencia* tanto con sus clientes como con sus trabajadores.
+Nuestro principal **valor** es la *transparencia* tanto con nuestros clientes como con nuestros trabajadores.
 
 ## Contacto
 
